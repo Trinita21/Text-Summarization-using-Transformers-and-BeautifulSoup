@@ -1,0 +1,2 @@
+# Text-Summarization-using-Transformers-and-BeautifulSoup
+This is a text summarization code that scrapes articles using BeautifulSoup and summarizes them using transformers from Huggingface using the summarization pipeline. I have summarized Strainflow paper(https://www.biorxiv.org/content/10.1101/2021.05.25.445601v3.full) here as an example. This code can be used to summarize any article/blog/research paper in general. 
